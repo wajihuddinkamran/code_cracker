@@ -68238,3 +68238,142 @@
 [2025-02-08 13:36:45] [class-ss-fetch-urls-task.php:89] Skipping URL because it is no-save and no-follow
 [2025-02-08 13:36:45] [class-ss-fetch-urls-task.php:72] URL: http://localhost/code_cracker
 [2025-02-08 13:36:45] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 10950
+[2025-02-08 13:36:45] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-02-08 13:36:45] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\wajih\AppData\Local\Temp/67a75dedacd90-Uy4J5z.tmp
+[2025-02-08 13:36:45] [class-ss-page-handler.php:38] URL Prepared:http://localhost/code_cracker?simply_static_page=18238
+[2025-02-08 13:36:45] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/code_cracker?simply_static_page=18238
+[2025-02-08 13:36:45] [class-ss-url-fetcher.php:103] Filesize: 362 bytes
+[2025-02-08 13:36:45] [class-ss-url-fetcher.php:119] http_status_code: 301 | content_type: text/html; charset=iso-8859-1
+[2025-02-08 13:36:45] [class-ss-url-fetcher.php:147] We weren't able to establish a filename; deleting temp file
+[2025-02-08 13:36:45] [class-ss-fetch-urls-task.php:203] redirect_url: http://localhost/code_cracker/
+[2025-02-08 13:36:45] [class-ss-fetch-urls-task.php:212] This is a redirect to a trailing slashed version of the same page; adding new URL to the queue
+[2025-02-08 13:36:45] [class-ss-fetch-urls-task.php:72] URL: http://localhost/code_cracker/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js
+[2025-02-08 13:36:45] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 10950
+[2025-02-08 13:36:45] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-02-08 13:36:45] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\wajih\AppData\Local\Temp/67a75dedcdc09-SYtCoq.tmp
+[2025-02-08 13:36:45] [class-ss-page-handler.php:38] URL Prepared:http://localhost/code_cracker/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?simply_static_page=18239
+[2025-02-08 13:36:45] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/code_cracker/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?simply_static_page=18239
+[2025-02-08 13:36:45] [class-ss-url-fetcher.php:103] Filesize: 3300 bytes
+[2025-02-08 13:36:45] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-02-08 13:36:45] [class-ss-url-fetcher.php:233] New filename for static page: /wp-includes/js/dist/script-modules/block-library/navigation/view.min.js
+[2025-02-08 13:36:45] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\wajih\AppData\Local\Temp/67a75dedcdc09-SYtCoq.tmp to C:\xampp\htdocs\code_cracker/wp-content/uploads\simply-static\temp-files/simply-static-1-1739021565/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js
+[2025-02-08 13:36:45] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-02-08 13:36:45] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-02-08 13:36:45] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-02-08 13:36:45] [class-ss-page.php:119] Checking Content Identical:b27ba805d3b9118edfd523f01fd6e84229d52ffd===. Value: FALSE
+[2025-02-08 13:36:45] [class-ss-fetch-urls-task.php:72] URL: http://localhost/code_cracker/wp-includes/blocks/navigation/style.min.css
+[2025-02-08 13:36:45] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 10950
+[2025-02-08 13:36:45] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-02-08 13:36:45] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\wajih\AppData\Local\Temp/67a75dedef407-foLJnE.tmp
+[2025-02-08 13:36:45] [class-ss-page-handler.php:38] URL Prepared:http://localhost/code_cracker/wp-includes/blocks/navigation/style.min.css?simply_static_page=18240
+[2025-02-08 13:36:45] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/code_cracker/wp-includes/blocks/navigation/style.min.css?simply_static_page=18240
+[2025-02-08 13:36:45] [class-ss-url-fetcher.php:103] Filesize: 16384 bytes
+[2025-02-08 13:36:45] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-02-08 13:36:45] [class-ss-url-fetcher.php:233] New filename for static page: /wp-includes/blocks/navigation/style.min.css
+[2025-02-08 13:36:45] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\wajih\AppData\Local\Temp/67a75dedef407-foLJnE.tmp to C:\xampp\htdocs\code_cracker/wp-content/uploads\simply-static\temp-files/simply-static-1-1739021565/wp-includes/blocks/navigation/style.min.css
+[2025-02-08 13:36:45] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-02-08 13:36:46] [class-ss-page.php:119] Checking Content Identical:da66b61dcc5204277eb7846b9dce55b2e7d58a42===. Value: FALSE
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:72] URL: http://localhost/code_cracker/wp-content/themes/twentytwentyfive/style.css
+[2025-02-08 13:36:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 10950
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-02-08 13:36:46] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\wajih\AppData\Local\Temp/67a75dee15fc0-cSRzd0.tmp
+[2025-02-08 13:36:46] [class-ss-page-handler.php:38] URL Prepared:http://localhost/code_cracker/wp-content/themes/twentytwentyfive/style.css?simply_static_page=18241
+[2025-02-08 13:36:46] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/code_cracker/wp-content/themes/twentytwentyfive/style.css?simply_static_page=18241
+[2025-02-08 13:36:46] [class-ss-url-fetcher.php:103] Filesize: 2503 bytes
+[2025-02-08 13:36:46] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-02-08 13:36:46] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/twentytwentyfive/style.css
+[2025-02-08 13:36:46] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\wajih\AppData\Local\Temp/67a75dee15fc0-cSRzd0.tmp to C:\xampp\htdocs\code_cracker/wp-content/uploads\simply-static\temp-files/simply-static-1-1739021565/wp-content/themes/twentytwentyfive/style.css
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-02-08 13:36:46] [class-ss-page.php:119] Checking Content Identical:ea5b671c7e109f3a3930b4229efd36784db50107===. Value: FALSE
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:72] URL: http://localhost/code_cracker/index.php
+[2025-02-08 13:36:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 10950
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:79] Excludable found: URL: http://localhost/code_cracker/index.php
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:89] Skipping URL because it is no-save and no-follow
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:72] URL: http://localhost/code_cracker/xmlrpc.php
+[2025-02-08 13:36:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 10950
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:79] Excludable found: URL: http://localhost/code_cracker/xmlrpc.php
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:89] Skipping URL because it is no-save and no-follow
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:72] URL: http://localhost/code_cracker/wp-includes/js/dist/script-modules/interactivity/index.min.js
+[2025-02-08 13:36:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 10950
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-02-08 13:36:46] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\wajih\AppData\Local\Temp/67a75dee2fab2-yqCHU9.tmp
+[2025-02-08 13:36:46] [class-ss-page-handler.php:38] URL Prepared:http://localhost/code_cracker/wp-includes/js/dist/script-modules/interactivity/index.min.js?simply_static_page=18244
+[2025-02-08 13:36:46] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/code_cracker/wp-includes/js/dist/script-modules/interactivity/index.min.js?simply_static_page=18244
+[2025-02-08 13:36:46] [class-ss-url-fetcher.php:103] Filesize: 36695 bytes
+[2025-02-08 13:36:46] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2025-02-08 13:36:46] [class-ss-url-fetcher.php:233] New filename for static page: /wp-includes/js/dist/script-modules/interactivity/index.min.js
+[2025-02-08 13:36:46] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\wajih\AppData\Local\Temp/67a75dee2fab2-yqCHU9.tmp to C:\xampp\htdocs\code_cracker/wp-content/uploads\simply-static\temp-files/simply-static-1-1739021565/wp-includes/js/dist/script-modules/interactivity/index.min.js
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-02-08 13:36:46] [class-ss-page.php:119] Checking Content Identical:b8552f14cf91bdfc758994614768737736f34657===. Value: FALSE
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:72] URL: http://localhost/code_cracker/wp-content/themes/twentytwentyfive/assets/fonts/manrope/Manrope-VariableFont_wght.woff2
+[2025-02-08 13:36:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 10950
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-02-08 13:36:46] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\wajih\AppData\Local\Temp/67a75dee58607-IWeSk5.tmp
+[2025-02-08 13:36:46] [class-ss-page-handler.php:38] URL Prepared:http://localhost/code_cracker/wp-content/themes/twentytwentyfive/assets/fonts/manrope/Manrope-VariableFont_wght.woff2?simply_static_page=18245
+[2025-02-08 13:36:46] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/code_cracker/wp-content/themes/twentytwentyfive/assets/fonts/manrope/Manrope-VariableFont_wght.woff2?simply_static_page=18245
+[2025-02-08 13:36:46] [class-ss-url-fetcher.php:103] Filesize: 53600 bytes
+[2025-02-08 13:36:46] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2025-02-08 13:36:46] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/twentytwentyfive/assets/fonts/manrope/Manrope-VariableFont_wght.woff2
+[2025-02-08 13:36:46] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\wajih\AppData\Local\Temp/67a75dee58607-IWeSk5.tmp to C:\xampp\htdocs\code_cracker/wp-content/uploads\simply-static\temp-files/simply-static-1-1739021565/wp-content/themes/twentytwentyfive/assets/fonts/manrope/Manrope-VariableFont_wght.woff2
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-02-08 13:36:46] [class-ss-page.php:119] Checking Content Identical:5b56dbe3d3eabe178719988f4fee76d9d4ad7079===. Value: FALSE
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:72] URL: http://localhost/code_cracker/wp-content/themes/twentytwentyfive/assets/fonts/fira-code/FiraCode-VariableFont_wght.woff2
+[2025-02-08 13:36:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 10950
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2025-02-08 13:36:46] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\wajih\AppData\Local\Temp/67a75dee64f47-EFiKZD.tmp
+[2025-02-08 13:36:46] [class-ss-page-handler.php:38] URL Prepared:http://localhost/code_cracker/wp-content/themes/twentytwentyfive/assets/fonts/fira-code/FiraCode-VariableFont_wght.woff2?simply_static_page=18246
+[2025-02-08 13:36:46] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/code_cracker/wp-content/themes/twentytwentyfive/assets/fonts/fira-code/FiraCode-VariableFont_wght.woff2?simply_static_page=18246
+[2025-02-08 13:36:46] [class-ss-url-fetcher.php:103] Filesize: 106112 bytes
+[2025-02-08 13:36:46] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2025-02-08 13:36:46] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/twentytwentyfive/assets/fonts/fira-code/FiraCode-VariableFont_wght.woff2
+[2025-02-08 13:36:46] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\wajih\AppData\Local\Temp/67a75dee64f47-EFiKZD.tmp to C:\xampp\htdocs\code_cracker/wp-content/uploads\simply-static\temp-files/simply-static-1-1739021565/wp-content/themes/twentytwentyfive/assets/fonts/fira-code/FiraCode-VariableFont_wght.woff2
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:158] Adding 0 URLs to the queue
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2025-02-08 13:36:46] [class-ss-page.php:119] Checking Content Identical:8861b9f5ea4d8410ce01d59ce47dcb32edead4ce===. Value: FALSE
+[2025-02-08 13:36:46] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 10900 of 10950 pages/files
+[2025-02-08 13:36:46] [class-ss-archive-creation-job.php:212] We're not done with the fetch_urls task yet
+[2025-02-08 13:36:46] [class-ss-archive-creation-job.php:172] Current task: fetch_urls
+[2025-02-08 13:36:46] [class-ss-archive-creation-job.php:182] Performing task: fetch_urls
+[2025-02-08 13:36:46] [class-ss-fetch-urls-task.php:69] Total pages: 10950; Pages remaining: 0
+[2025-02-08 13:36:46] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 10950 of 10950 pages/files
+[2025-02-08 13:36:46] [class-ss-archive-creation-job.php:204] We've found our next task: transfer_files_locally
+[2025-02-08 13:36:46] [class-ss-archive-creation-job.php:234] Cleaning on first run for task: transfer_files_locally
+[2025-02-08 13:36:46] [class-ss-archive-creation-job.php:172] Current task: transfer_files_locally
+[2025-02-08 13:36:46] [class-ss-archive-creation-job.php:182] Performing task: transfer_files_locally
+[2025-02-08 13:36:46] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /index.html
+[2025-02-08 13:36:46] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/code_cracker/
+[2025-02-08 13:36:46] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-includes/js/dist/script-modules/block-library/navigation/view.min.js
+[2025-02-08 13:36:46] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/code_cracker/wp-includes/js/dist/script-modules/block-library/navigation
+[2025-02-08 13:36:46] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-includes/blocks/navigation/style.min.css
+[2025-02-08 13:36:46] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/code_cracker/wp-includes/blocks/navigation
+[2025-02-08 13:36:46] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/themes/twentytwentyfive/style.css
+[2025-02-08 13:36:46] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/code_cracker/wp-content/themes/twentytwentyfive
+[2025-02-08 13:36:46] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-includes/js/dist/script-modules/interactivity/index.min.js
+[2025-02-08 13:36:46] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/code_cracker/wp-includes/js/dist/script-modules/interactivity
+[2025-02-08 13:36:46] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/themes/twentytwentyfive/assets/fonts/manrope/Manrope-VariableFont_wght.woff2
+[2025-02-08 13:36:46] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/code_cracker/wp-content/themes/twentytwentyfive/assets/fonts/manrope
+[2025-02-08 13:36:46] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/themes/twentytwentyfive/assets/fonts/fira-code/FiraCode-VariableFont_wght.woff2
+[2025-02-08 13:36:46] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: C:/xampp/htdocs/code_cracker/wp-content/themes/twentytwentyfive/assets/fonts/fira-code
+[2025-02-08 13:36:46] [class-ss-transfer-files-locally-task.php:98] [Transfer] Total Pages:7. Processed Pages: 7
+[2025-02-08 13:36:46] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 7 of 7 files
+[2025-02-08 13:36:46] [trait-can-process-pages.php:112] Total pages: 7; Pages remaining: 0
+[2025-02-08 13:36:46] [class-ss-transfer-files-locally-task.php:197] Transferring 404 Page
+[2025-02-08 13:36:46] [class-ss-transfer-files-locally-task.php:200] No 404 Page found at C:\xampp\htdocs\code_cracker/wp-content/uploads\simply-static\temp-files/simply-static-1-1739021565\404\index.html
+[2025-02-08 13:36:46] [class-ss-task.php:44] Status message: [destination_url] Destination URL: <a href="https://wajihuddinkamran.github.io/code_cracker/" target="_blank">https://wajihuddinkamran.github.io/code_cracker/</a>
+[2025-02-08 13:36:46] [class-ss-archive-creation-job.php:204] We've found our next task: wrapup
+[2025-02-08 13:36:46] [class-ss-archive-creation-job.php:172] Current task: wrapup
+[2025-02-08 13:36:46] [class-ss-archive-creation-job.php:182] Performing task: wrapup
+[2025-02-08 13:36:46] [class-ss-wrapup-task.php:22] Deleting temporary files
+[2025-02-08 13:36:46] [class-ss-task.php:44] Status message: [wrapup] Wrapping up
+[2025-02-08 13:36:46] [class-ss-archive-creation-job.php:199] This task is done and there are no more tasks, time to complete the job
+[2025-02-08 13:36:46] [class-ss-archive-creation-job.php:244] Completing the job
+[2025-02-08 13:36:46] [class-ss-archive-creation-job.php:371] Status message: [done] Done! Finished in 00:04:01
