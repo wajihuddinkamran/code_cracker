@@ -1,0 +1,28 @@
+{
+  "name": "patrickposner/simply-static",
+  "description": "A simple WordPress static site generator",
+  "type": "wordpress-plugin",
+  "require": {
+    "algolia/algoliasearch-client-php": "^3.4",
+    "voku/html-min": "^4.5",
+    "tedivm/jshrink": "1.6.8",
+    "aws/aws-sdk-php": "^3.2",
+    "phpseclib/phpseclib": "~3.0"
+  },
+  "license": "gpl",
+  "authors": [
+    {
+      "name": "Patrick Posner",
+      "email": "hello@simplystatic.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/patrickposner/simply-static/issues",
+    "source": "https://github.com/patrickposner/simply-static/"
+  },
+  "config": {
+    "platform": {
+      "php": "7.4.0"
+    }
+  }
+}
